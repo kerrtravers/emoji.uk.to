@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Emoji
 description: A list containing nearly every emoji 📚  -   Made by Kerr Travers
+show_downloads: true
+locale: "en"
