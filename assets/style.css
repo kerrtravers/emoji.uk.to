@@ -1,8 +1,8 @@
 @media screen and (min-width: 767px) {
-
 .main {
     padding-left: 274px;
     padding-right: 274px;
+}
 }
 
 .hero {
@@ -16,5 +16,3 @@ h5 {
 
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.01); }
-
-}
