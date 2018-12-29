@@ -12,4 +12,6 @@ h5 {
     padding-bottom: 5px;
 }
 
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.01); }
 
