@@ -1,4 +1,9 @@
 ### Emoji Shelf
-📘 A massive emoji list, sorted into categories
+📜 A simple emoji list
 
 🔗 [https://emoji.uk.to](emoji.uk.to)
+
+```
+git clone https://github.com/kerrtravers/emoji.git
+cd emoji
+```
