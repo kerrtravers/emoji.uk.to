@@ -7,8 +7,9 @@ document.addEventListener('DOMContentLoaded', e => {
             const span = document.createElement('span');
             span.classList.add('emoji');
             span.dataset.clipboardText = emoji;
-            span.textContent = emoji + ' ';
+            span.textContent = emoji;
             emojiParagraph.appendChild(span);
+            emojiParagraph.appendChild(document.createTextNode(' '));
         });
     });
 
