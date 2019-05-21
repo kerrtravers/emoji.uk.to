@@ -1,7 +1,7 @@
 ### Emoji Shelf
 📜 A simple emoji list
 
-🔗 [https://emoji.uk.to](emoji.uk.to)
+🔗 [http://emojishelf.xyz](emojishelf.xyz)
 
 ```
 git clone https://github.com/kerrtravers/emoji.git
