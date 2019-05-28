@@ -1,3 +1,8 @@
+body {
+   background: #000;
+   colour: #fff;
+}
+
 @media screen and (min-width: 767px) {
 .main {
     padding-left: 274px;
@@ -10,7 +15,6 @@
 }
 
 h5 {
-    color: #1e3c72;
     padding-bottom: 5px;
 }
 
