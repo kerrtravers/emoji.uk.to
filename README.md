@@ -1,5 +1,5 @@
-### Emoji Shelf
-📜 A simple emoji list
+### emoji.uk.to
+🦋 A massive click to copy emoji & symbol list.
 
 🔗 [http://emoji.uk.to](emoji.uk.to)
 
