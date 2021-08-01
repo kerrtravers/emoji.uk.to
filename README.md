@@ -1,3 +1,5 @@
 A click to copy emoji & symbol list.
 
-[http://emoji.uk.to](emoji.uk.to)
+[website](https://emoji.uk.to) / [plain text](https://emoji.uk.to/list.txt)
+
+
